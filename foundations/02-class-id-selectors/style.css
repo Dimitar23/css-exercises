@@ -1,0 +1,20 @@
+.classEl {
+    background-color: #e094be;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id1{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.classCool{
+    font-size: 24px;
+}
+
+#id2{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
